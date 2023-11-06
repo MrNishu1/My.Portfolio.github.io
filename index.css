@@ -138,7 +138,7 @@ header-text h1 {
 }
 
 about-col-1 img {
-      margin-top: -35px;
+      margin-top: -50px;
       width: 100%;
       position: absolute;
 
@@ -491,13 +491,13 @@ nav .fa-solid {
 
 @media only screen and (max-width: 600px) {
       #header {
-            background-image: url(images/ScreenImage.jpg);
-            height: auto;
+            background-image: url(image/ScreenImage.jpg);
+
 
       }
 
       .header-text {
-            margin-top: 70%;
+            margin-top: 100%;
             font-size: 16px;
 
       }
@@ -552,9 +552,9 @@ nav .fa-solid {
       }
 
       .about-col-1 img {
-            margin-top: -10px;
+            margin-top: 30px;
             display: flex;
-            position: relative;
+            position: absolute;
             left: -50px;
 
       }
